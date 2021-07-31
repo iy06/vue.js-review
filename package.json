@@ -7,7 +7,6 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
-  /*vue-createでインストールされたパッケージ*/
   "dependencies": {
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
